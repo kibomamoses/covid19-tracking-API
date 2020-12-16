@@ -1,0 +1,25 @@
+com/halil/ozel/covid19stats/ui/activity/MainActivity.java
+ com.halil.ozel.covid19stats.ui.activity.MainActivity
+ com.halil.ozel.covid19stats.ui.activity.MainActivity$1
+ com.halil.ozel.covid19stats.ui.activity.MainActivity$2
+com/halil/ozel/covid19stats/api/CoronaService.java
+ com.halil.ozel.covid19stats.api.CoronaService
+com/halil/ozel/covid19stats/BuildConfig.java
+ com.halil.ozel.covid19stats.BuildConfig
+com/halil/ozel/covid19stats/ui/activity/DetailActivity.java
+ com.halil.ozel.covid19stats.ui.activity.DetailActivity
+com/halil/ozel/covid19stats/data/CountriesResponse.java
+ com.halil.ozel.covid19stats.data.CountriesResponse
+com/halil/ozel/covid19stats/ui/adapter/CountryAdapter.java
+ com.halil.ozel.covid19stats.ui.adapter.CountryAdapter
+ com.halil.ozel.covid19stats.ui.adapter.CountryAdapter$1
+ com.halil.ozel.covid19stats.ui.adapter.CountryAdapter$2
+ com.halil.ozel.covid19stats.ui.adapter.CountryAdapter$2$1
+ com.halil.ozel.covid19stats.ui.adapter.CountryAdapter$3
+ com.halil.ozel.covid19stats.ui.adapter.CountryAdapter$CountryHolder
+com/halil/ozel/covid19stats/data/CountryInfo.java
+ com.halil.ozel.covid19stats.data.CountryInfo
+com/halil/ozel/covid19stats/api/CoronaApi.java
+ com.halil.ozel.covid19stats.api.CoronaApi
+com/halil/ozel/covid19stats/data/AllCountriesResponse.java
+ com.halil.ozel.covid19stats.data.AllCountriesResponse

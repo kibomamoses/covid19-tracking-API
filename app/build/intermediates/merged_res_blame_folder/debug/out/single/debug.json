@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cases.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\drawable\\cases.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\drawable\\test.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\layout_country_row.xml.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\layout\\country_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_death.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\drawable\\death.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_liferecovered.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\drawable\\liferecovered.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_totalcases.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\drawable\\totalcases.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_totaldeath.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\drawable\\totaldeath.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kiboma\\Desktop\\kibomacovid19\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
